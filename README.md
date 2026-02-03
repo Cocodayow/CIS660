@@ -6,7 +6,9 @@ For command based generation, registered a custom maya command (LSystemCmd) thro
 
 The following command example accepts parameters such as angle(-a), step(-s), iteration count(-i), and grammar file path(-g). 
 
-** LSystemCmd -a 90 -s 1 -i 0 -g "F-F-F-F\nF->F-F+F+FF-F-F+F\n";**
+```
+ SystemCmd -a 90 -s 1 -i 0 -g "F-F-F-F\nF->F-F+F+FF-F-F+F\n";
+```
 
 For easier access, go to top menu entry **(LSystem → Open…)** that opens a file picker and forwards the selected grammar path to the command, or falls back to a built-in default grammar if the user clicks OK without specifying a file.
 
@@ -20,11 +22,13 @@ For quicker access, go to top menu entry **(Lsystem Node -> Create Node)**, whic
 
 If you would prefer Mel command use:
 
+```
 createNode LSystemNode; 
 
 createNode mesh -n receiverShape; 
 
-connectAttr LSystemNode(n).outputMesh receiverShape.inMesh; 
+connectAttr LSystemNode(n).outputMesh receiverShape.inMesh;
+```
 
 In attribute editor, you could change the angle, step, grammar file (string to the file using absolute path), and time. 
 

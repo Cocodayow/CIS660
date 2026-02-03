@@ -1,0 +1,18 @@
+﻿cl : command line  warning D9025: overriding '/EHs' with '/EHa'
+  cylinder.cpp
+C:\Users\qaqta\Desktop\upenn\cis660\hw2\HW2_MayaPlugin_VS2022\cylinder.h(4,10): error C1083: Cannot open include file: 'maya/MPoint.h': No such file or directory
+  (compiling source file 'cylinder.cpp')
+  
+  LSystem.cpp
+C:\Users\qaqta\Desktop\upenn\cis660\hw2\HW2_MayaPlugin_VS2022\matrix.h(157,8): warning C5308: Modifying reserved macro name '_MSC_EXTENSIONS' may cause undefined behavior
+  (compiling source file 'LSystem.cpp')
+  
+C:\Users\qaqta\Desktop\upenn\cis660\hw2\HW2_MayaPlugin_VS2022\LSystem.cpp(52,29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  LSystemCmd.cpp
+C:\Users\qaqta\Desktop\upenn\cis660\hw2\HW2_MayaPlugin_VS2022\LSystemCmd.h(4,10): error C1083: Cannot open include file: 'maya/MPxCommand.h': No such file or directory
+  (compiling source file 'LSystemCmd.cpp')
+  
+  PluginMain.cpp
+C:\Users\qaqta\Desktop\upenn\cis660\hw2\HW2_MayaPlugin_VS2022\PluginMain.cpp(1,10): error C1083: Cannot open include file: 'maya/MPxCommand.h': No such file or directory
+  vec.cpp
+  Generating Code...

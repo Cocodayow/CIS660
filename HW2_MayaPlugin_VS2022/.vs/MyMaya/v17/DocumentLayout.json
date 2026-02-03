@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\PluginDialogue.mel||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|solutionrelative:PluginDialogue.mel||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystemNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|solutionrelative:LSystemNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystemCmd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|solutionrelative:LSystemCmd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystemCmd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|solutionrelative:LSystemCmd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|solutionrelative:matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystemNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|solutionrelative:LSystemNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\cylinder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|solutionrelative:cylinder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\cylinder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|solutionrelative:cylinder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\PluginMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|solutionrelative:PluginMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|solutionrelative:LSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|solutionrelative:LSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.44.35207\\INCLUDE\\STRING||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\vec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{681412B0-F197-4A2F-9263-DEA2E8690146}|MyPlugin.vcxproj|solutionrelative:vec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "vec.h",
+              "DocumentMoniker": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\vec.h",
+              "RelativeDocumentMoniker": "vec.h",
+              "ToolTip": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\vec.h",
+              "RelativeToolTip": "vec.h",
+              "ViewState": "AgIAABAAAAAAAAAAAAAnwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-02T05:53:42.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cylinder.cpp",
+              "DocumentMoniker": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\cylinder.cpp",
+              "RelativeDocumentMoniker": "cylinder.cpp",
+              "ToolTip": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\cylinder.cpp",
+              "RelativeToolTip": "cylinder.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAArwIQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-02T20:44:55.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cylinder.h",
+              "DocumentMoniker": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\cylinder.h",
+              "RelativeDocumentMoniker": "cylinder.h",
+              "ToolTip": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\cylinder.h",
+              "RelativeToolTip": "cylinder.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-02T20:44:54.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LSystemNode.h",
+              "DocumentMoniker": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystemNode.h",
+              "RelativeDocumentMoniker": "LSystemNode.h",
+              "ToolTip": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystemNode.h",
+              "RelativeToolTip": "LSystemNode.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAD4vxEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-02T19:04:03.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LSystemNode.cpp",
+              "DocumentMoniker": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystemNode.cpp",
+              "RelativeDocumentMoniker": "LSystemNode.cpp",
+              "ToolTip": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystemNode.cpp",
+              "RelativeToolTip": "LSystemNode.cpp",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAvwEgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-02T19:03:27.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PluginDialogue.mel",
+              "DocumentMoniker": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\PluginDialogue.mel",
+              "RelativeDocumentMoniker": "PluginDialogue.mel",
+              "ToolTip": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\PluginDialogue.mel",
+              "RelativeToolTip": "PluginDialogue.mel",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwHEAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJxSURBVDhPzZNdSJNRGMf/5/12Wy4/wOE23SS3ob1zyT6oNZ02ahdBVBf2dWEQhEJdRBBWMIOg6CLosqugm7qpu4K\u002BrhYhFIQrKDXMrOEyhq7mfF/f7X27iKabFcu86AcHDn\u002Be58c5D\u002BcQAOB5nvcEu4/oXP4LWZVqRIUYZ8fPPr57\u002B3Ix0DSNWB1tEW90zzm\u002BwdbVKbrI4e0eVAtcSeOv2D10FbK0kClMJi4m4k\u002Buy9JiFgBo8cDgm66eHns46Ce2Jgs21Rqg51lwDPPHdfPhU8gFTeA21ruNOkGeSyVfFfL5JUpRwW1xtxPjBgNI\u002BTEqYIliTbpWz2l3aMdxAKDKC9aCQrEmuqXjfGRv35k1C3U8V7J4ocqYaXBeIv6BmBY7NaAJHAsACJiqoWPp8v6KCAwOr8\u002BVV/L/C4l/IKYNnTim5b5lEX/\u002BEqNvJ5DPF8rrKoY2\u002B8LDsiThUXwEU8kZqKpWXvNX0GZfeDiZmoWsKOjtbEPU58bYxxmY62pwsHcr0pksvK4W7PKK8DlbYKgSMJOex9FoCEa9HlOpLyXCkhmGRCf6oyG02ywIig70R0NoaqhDd4cLfT0BcCwDQgAVGg5FtiEoOla2A\u002BXCn4Q2O\u002BGwmEoygWOxv8sLc30NFOX3M14lnP6cRqejGS6rCdmcVMwXJBlXbt3Ds9cTxYxlaOireDD0smaVMDE5DVOtEYQQJNNzxZyhKXham\u002BFsagTPMgAAt92Ck/t2QrRbl\u002BuKOwD3R0YhKwpejL1HTpZBUzQmPqUgLSkYffcBADA7l4Gqabh25wFY5scX/ZpbLDpIYDCm/utTWQnVXJi/QVEEZJ34DsKQvfTfc\u002B1GAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-02T11:28:17.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "string",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\string",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\string",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\string",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\string",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-02T06:18:54.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LSystem.h",
+              "DocumentMoniker": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystem.h",
+              "RelativeDocumentMoniker": "LSystem.h",
+              "ToolTip": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystem.h",
+              "RelativeToolTip": "LSystem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-02T06:05:24.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystem.cpp",
+              "RelativeDocumentMoniker": "LSystem.cpp",
+              "ToolTip": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystem.cpp",
+              "RelativeToolTip": "LSystem.cpp",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAlwC8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-02T05:56:16.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PluginMain.cpp",
+              "DocumentMoniker": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\PluginMain.cpp",
+              "RelativeDocumentMoniker": "PluginMain.cpp",
+              "ToolTip": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\PluginMain.cpp",
+              "RelativeToolTip": "PluginMain.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-02T04:57:22.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LSystemCmd.cpp",
+              "DocumentMoniker": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystemCmd.cpp",
+              "RelativeDocumentMoniker": "LSystemCmd.cpp",
+              "ToolTip": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystemCmd.cpp",
+              "RelativeToolTip": "LSystemCmd.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-02T04:56:24.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "matrix.h",
+              "DocumentMoniker": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\matrix.h",
+              "RelativeDocumentMoniker": "matrix.h",
+              "ToolTip": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\matrix.h",
+              "RelativeToolTip": "matrix.h",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAAAJsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-02T04:30:16.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LSystemCmd.h",
+              "DocumentMoniker": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystemCmd.h",
+              "RelativeDocumentMoniker": "LSystemCmd.h",
+              "ToolTip": "C:\\Users\\qaqta\\Desktop\\upenn\\cis660\\hw2\\HW2_MayaPlugin_VS2022\\LSystemCmd.h",
+              "RelativeToolTip": "LSystemCmd.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-02T04:21:14.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

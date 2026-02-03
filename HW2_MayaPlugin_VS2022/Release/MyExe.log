@@ -1,0 +1,9 @@
+﻿  LSystem.cpp
+C:\Users\qaqta\Desktop\upenn\cis660\hw2\HW2_MayaPlugin_VS2022\matrix.h(157,8): warning C5308: Modifying reserved macro name '_MSC_EXTENSIONS' may cause undefined behavior
+  (compiling source file 'LSystem.cpp')
+  
+C:\Users\qaqta\Desktop\upenn\cis660\hw2\HW2_MayaPlugin_VS2022\LSystem.cpp(52,29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  main.cpp
+  vec.cpp
+  Generating Code...
+  MyExe.vcxproj -> C:\Users\qaqta\Desktop\upenn\cis660\hw2\HW2_MayaPlugin_VS2022\bin\LSystem.exe

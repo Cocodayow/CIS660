@@ -1,0 +1,113 @@
+global proc string lsys_readFile(string $path)
+{
+    string $text = "";
+    int $id = `fopen $path "r"`;
+    if ($id == 0) { warning("Cannot open file."); return ""; }
+
+    while (!`feof $id`)
+        $text += (`fgetline $id` + "\n");
+
+    fclose $id;
+    return $text;
+}
+
+global proc lsys_browse()
+{
+    string $f[] = `fileDialog2 -fm 1 -ff "Text Files (*.txt)" -cap "Open L-System Grammar"`;
+    if (size($f) == 0) return;
+
+    string $text = `lsys_readFile($f[0])`;
+    if (size($text) == 0) return;
+
+    textFieldButtonGrp -e -text $f[0] lsys_file;
+    scrollField -e -text $text lsys_gram;
+}
+
+global proc lsys_ok()
+{
+    int   $iter = `intSliderGrp -q -v lsys_iter`;
+    float $ang = `floatSliderGrp -q -v lsys_angle`;
+    float $step = `floatSliderGrp -q -v lsys_step`;
+    string $g = `scrollField -q -text lsys_gram`;
+
+    if (size($g) == 0)
+        $g = "F\nF->F[+F]F[-F]F\n";
+
+    LSystemCmd -i $iter -a $ang -s $step -g $g;
+}
+
+global proc lsys_show()
+{
+    if (`window -exists lsysWin`) deleteUI lsysWin;
+
+    window -title "LSystem Command" -w 420 -h 520 lsysWin;
+    columnLayout -adj true -cal "left" -rs 10;
+
+        separator -h 8 -style "none";
+
+        textFieldButtonGrp -label "Grammar File"
+            -buttonLabel "Browse"
+            -bc "lsys_browse()"
+            -text ""
+            lsys_file;
+
+        separator -h 10 -style "none";
+
+        intSliderGrp -label "Iterations" -field true -min 0 -max 10 -v 4 lsys_iter;
+        floatSliderGrp -label "Angle" -field true -min 0 -max 90 -v 22.5 lsys_angle;
+        floatSliderGrp -label "Step" -field true -min 0.01 -max 5 -v 1.0 lsys_step;
+
+        separator -h 10 -style "none";
+
+        scrollField -h 260 -wordWrap true -text "" lsys_gram;
+
+        separator -h 12 -style "none";
+
+        rowLayout -nc 2 -cw2 200 200;
+            button -l "OK" -h 30 -c "lsys_ok(); deleteUI lsysWin;";
+            button -l "Cancel" -h 30 -c "deleteUI lsysWin;";
+        setParent ..;
+
+        separator -h 8 -style "none";
+
+    showWindow lsysWin;
+}
+global proc lsys_createNode()
+{
+    createNode transform -n LSystem1;
+    createNode mesh -n LSystemShape1 -p LSystem1;
+    sets -add initialShadingGroup LSystemShape1;
+    createNode LSystemNode -n LSystemNode1;
+    connectAttr time1.outTime LSystemNode1.time;
+    connectAttr LSystemNode1.outputMesh LSystemShape1.inMesh;
+}
+
+global proc lsys_installMenu()
+{
+    global string $gMainWindow;
+
+    if (`menu -exists lsysMenu`) deleteUI lsysMenu;
+
+    menu -label "LSystem" -parent $gMainWindow -tearOff true lsysMenu;
+    menuItem -label "Open..." -c "lsys_show()";
+
+    print("[LSystem] Installed menu: LSystem\n");
+}
+
+global proc lsys_installNodeMenu()
+{
+    global string $gMainWindow;
+
+    if (`menu -exists lsysNodeMenu`) deleteUI lsysNodeMenu;
+
+    menu -label "LSystem Node" -parent $gMainWindow -tearOff true lsysNodeMenu;
+    menuItem -label "Create Node..." -c "lsys_createNode()";
+
+    print("[LSystem] Installed menu: LSystem Node\n");
+}
+
+
+lsys_installMenu();
+lsys_installNodeMenu();
+
+
